@@ -1,0 +1,5 @@
+Ad:Muhammet
+Soyad:Guler
+Okul:Bogazici
+Bolum: Bote
+Yas: 25
