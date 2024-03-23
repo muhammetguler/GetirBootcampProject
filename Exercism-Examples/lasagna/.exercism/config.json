@@ -1,0 +1,22 @@
+{
+  "authors": [
+    "wneumann",
+    "meatball133"
+  ],
+  "files": {
+    "solution": [
+      "Sources/Lasagna/Lasagna.swift"
+    ],
+    "test": [
+      "Tests/LasagnaTests/LasagnaTests.swift"
+    ],
+    "exemplar": [
+      ".meta/Sources/Lasagna/LasagnaExemplar.swift"
+    ]
+  },
+  "language_versions": ">=5.0",
+  "forked_from": [
+    "fsharp/lucians-luscious-lasagna"
+  ],
+  "blurb": "Learn the basics of Swift cooking a brilliant lasagna from your favorite cooking book"
+}

@@ -1,0 +1,18 @@
+{
+  "authors": [
+    "wneumann",
+    "meatball133"
+  ],
+  "files": {
+    "solution": [
+      "Sources/VehiclePurchase/VehiclePurchase.swift"
+    ],
+    "test": [
+      "Tests/VehiclePurchaseTests/VehiclePurchaseTests.swift"
+    ],
+    "exemplar": [
+      ".meta/Sources/VehiclePurchase/VehiclePurchaseExemplar.swift"
+    ]
+  },
+  "blurb": "Learn about conditionals while preparing for your next vehicle purchase"
+}
