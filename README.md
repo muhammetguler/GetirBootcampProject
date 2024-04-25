@@ -41,12 +41,23 @@ The project follows a modular design approach allowing features to be developed 
 - Checkout functionality with a success message displaying the total cart amount.
 - Cart data resets after checkout.
 
+## Screenshots
+
+### Product Listing Screen
+![Product Listing Screen](images/Basket-1.png)
+
+### Product Details Screen
+![Product Details Screen](screenshots/product_details.png "Product Details Screen")
+
+### Shopping Cart
+![Shopping Cart](screenshots/shopping_cart.png "Shopping Cart") 
+
 ## Technical Decisions
 
 - **No Storyboards/Xibs**: All views are coded programmatically, ensuring precise control over UI elements and layout.
 - **Compositional Layout**: Utilized for complex collection view layouts.
 - **Clean Code Practices**: Codebase is kept as clean and readable as possible, simplifying maintenance and updates.
-- 
+
 ## Setup
 
 1. Clone the repository:
