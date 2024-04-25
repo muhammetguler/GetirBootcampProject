@@ -61,7 +61,7 @@ Contributions are welcome. Please read the CONTRIBUTING.md file for details on o
 
 ## Contributing
 
-This README is structured to align with common GitHub documentation practices, including clear headers, concise explanations, and command-line instructions. Replace `YOUR_REPOSITORY_URL` with the actual URL of your project repository and ensure to create or link to the appropriate `CONTRIBUTING.md` and `LICENSE.md` documents based on your project's governance and licensing specifics.
+This README is structured to align with common GitHub documentation practices, including clear headers, concise explanations, and command-line instructions. 
 
 ## License
 
