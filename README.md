@@ -1,16 +1,8 @@
-<<<<<<< HEAD
-# Swift VIPER Getir App
-
-## Overview
-
-This Swift project implements a simple e-commerce application using the VIPER architecture, ensuring clean, maintainable, and modular code. The app features a product listing, product details, and a shopping cart. The project is designed to be production-ready and compatible with Xcode 15.2.
-=======
 # Swift VIPER E-commerce App
 
 ## Overview
 
 This Swift project implements a simple e-commerce application using the VIPER architecture, ensuring clean, maintainable, and modular code. The app features a product listing, product details, and a shopping cart. The project is designed to be production-ready and compatible with Xcode 15.x.
->>>>>>> 8c67ed4f9907667f486e94038eff53665be5bf7d
 
 ## Architecture
 
@@ -52,11 +44,7 @@ The project follows a modular design approach allowing features to be developed 
 ## Screenshots
 
 ### Product Listing Screen
-<<<<<<< HEAD
-![Product Listing Screen](images/Listing-2.png)
-=======
 ![Product Listing Screen](images/Basket-2.png)
->>>>>>> 8c67ed4f9907667f486e94038eff53665be5bf7d
 
 ### Product Details Screen
 ![Product Details Screen](images/ProductDetail-2.png)
@@ -82,13 +70,10 @@ The project follows a modular design approach allowing features to be developed 
 
 Contributions are welcome. Please read the CONTRIBUTING.md file for details on our code of conduct, and the process for submitting pull requests.
 
-<<<<<<< HEAD
-=======
 ## Contributing
 
 This README is structured to align with common GitHub documentation practices, including clear headers, concise explanations, and command-line instructions. 
 
->>>>>>> 8c67ed4f9907667f486e94038eff53665be5bf7d
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
