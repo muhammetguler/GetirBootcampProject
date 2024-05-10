@@ -47,7 +47,7 @@ The project follows a modular design approach allowing features to be developed 
 ![Product Listing Screen](images/Listing-2.png)
 
 ### Product Details Screen
-![Product Details Screen](images/ProductDetail-1.png)
+![Product Details Screen](images/ProductDetail-2.png)
 
 ### Shopping Cart
 ![Shopping Cart](images/Basket-1.png)
@@ -62,7 +62,7 @@ The project follows a modular design approach allowing features to be developed 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/muhammetguler/GetirBootcamp.git
+   git clone https://github.com/muhammetguler/GetirBootcampProject.git
 2. Open the project in Xcode 15.2
 3. Build and run the project on a simulator or actual device.
 
