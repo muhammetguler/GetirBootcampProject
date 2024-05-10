@@ -1,6 +1,6 @@
 # Swift VIPER Getir App
 
-![Getir App](images/getirapp.gift)
+![Getir App](images/getirapp.gif)
 
 ## Overview
 
