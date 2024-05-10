@@ -1,4 +1,6 @@
-# Swift VIPER E-commerce App
+# Swift VIPER Getir App
+
+![Getir App](images/getirapp.gift)
 
 ## Overview
 
@@ -40,6 +42,8 @@ The project follows a modular design approach allowing features to be developed 
 - View a list of products added to the cart with their quantities.
 - Checkout functionality with a success message displaying the total cart amount.
 - Cart data resets after checkout.
+
+## Screenshots
 
 ## Screenshots
 
