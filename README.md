@@ -44,13 +44,13 @@ The project follows a modular design approach allowing features to be developed 
 ## Screenshots
 
 ### Product Listing Screen
-![Product Listing Screen](images/Basket-2.png)
+![Product Listing Screen](images/Listing-2.png)
 
 ### Product Details Screen
-![Product Details Screen](images/ProductDetail-2.png)
+![Product Details Screen](images/ProductDetail-1.png)
 
 ### Shopping Cart
-![Shopping Cart](images/Basket-2.png)
+![Shopping Cart](images/Basket-1.png)
 
 ## Technical Decisions
 
